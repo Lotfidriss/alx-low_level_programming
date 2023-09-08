@@ -7,7 +7,7 @@
  *
  * Description: false or true validation
  *
- * Return : 0 seccess
+ * Return : 0 (seccess)
  */
 
 int main(void)
