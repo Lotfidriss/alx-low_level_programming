@@ -11,15 +11,16 @@
 
 int main(void)
 {
-	char letter;
+	char letter = 'a' ;
+	char Letter = 'A' ;
 
-	for (letter = 'a', 'A'; letter <= 'z'; letter++)
+	for (letter = 'a'; letter <= 'z'; letter++)
 {
 	putchar(letter);
 }
-	for (letter <= 'Z'; letter++; )
+	for (Letter <= 'Z'; letter++; )
 {
-	putchar(letter);
+	putchar(Letter);
 }
 	putchar('\n');
 
