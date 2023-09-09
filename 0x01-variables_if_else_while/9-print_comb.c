@@ -16,7 +16,8 @@ int main(void)
 	for (letter = 0; letter <= 9; letter++)
 {
 	putchar(letter);
-	putchar(', ');
+	putchar(',');
+	putchar(' ');
 }
 	putchar('\n');
 
