@@ -1,9 +1,9 @@
 #include"main.h"
 
 /**
- * _is lower - function check if char is lower
+ * test_islower - Test the _islower function
  *
- * @c: check input of function
+ * @n: Number to pass to _islower function
  *
  * Return: 1 if 'c' lower otherwise always 0
  */
