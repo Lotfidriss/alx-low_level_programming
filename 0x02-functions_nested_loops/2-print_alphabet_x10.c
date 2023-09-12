@@ -1,15 +1,14 @@
 #include"main.h"
 
 /**
- * print_alphabetx100 - utiler _putchar
+ * print_alphabet_x10 - utiler _putchar
  *
  * description: print_alphabet_x10 function
  *
  * Return: (0)
  */
 
-void print_alphabet_x10(void)
-
+	void print_alphabet_x10(void)
 {
 	int line, ch;
 
