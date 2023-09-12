@@ -3,7 +3,7 @@
 /**
  * print_alphabetx100 - utiler _putchar
  *
- * description: _putchar funtion
+ * description: print_alphabet_x10 function
  *
  * Return: (0)
  */
