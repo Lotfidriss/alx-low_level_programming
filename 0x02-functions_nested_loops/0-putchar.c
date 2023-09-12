@@ -3,7 +3,9 @@
 /**
  * main - evry pont
  *
- * Return : (0)
+ *description : _putchar funtion
+ *
+ * Return: (0)
  */
 
 	int main(void)
