@@ -1,7 +1,7 @@
 #include"main.h"
 
 /**
- *jack_bauer - print every minutes of a day
+ *jack_bauer- print every minutes of a day
  */
 
 void jack_bauer(void)
@@ -14,7 +14,7 @@ void jack_bauer(void)
 		{
 			_putchar((hr / 10) + 48);
 			_putchar((hr % 10) + 48);
-			_putchar((':')
+			_putchar((':');
 			_putchar((min / 10) + 48);
 			_putchar((hr % 10) + 48);	
 			_putchar('\n');
