@@ -27,7 +27,7 @@ void times_table(void)
 			 * put space if product is simple number
 			 * place the frist digit if its two numbers
 			 */
-			if ( prod <= 9)
+			if (prod <= 9)
 				_putchar(' ');
 			else
 				_putchar((prod / 10) + 48); /*get the first digit*/
