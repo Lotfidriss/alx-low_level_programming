@@ -8,12 +8,11 @@
  *
  */
 
-int main()
+int main(void)
 {
 	int c;
 
-	if (c = 64; c <= 90; c++)
+	if (c >= 64 && c <= 90)
 		return (1);
-	return (0);
-}	
-
+		return (0);
+}
