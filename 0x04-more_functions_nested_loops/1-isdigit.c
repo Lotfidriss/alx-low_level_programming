@@ -2,7 +2,7 @@
 
 /**
  *
- * _digit - function that check for digit
+ * _isdigit - function that check for digit
  *
  * @c : input for digit
  *
@@ -14,7 +14,8 @@
 int _isdigit(int c)
 {
 	if (c >= 48 && c <= 57)
-		return (1);
-	else
-		return (0);
+	{
+	return (1);
+	}
+	return (0);
 }
