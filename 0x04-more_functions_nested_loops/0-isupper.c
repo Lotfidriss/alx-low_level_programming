@@ -1,18 +1,20 @@
 #include"main.c"
 
 /*
+ * @c : imput for alphabet
  *
- * isupper - funtion that checkthe letter if is uppercase
+ * _isupper - funtion that checkthe letter if is uppercase
  *
  * Return: (1) if c is uppercase otherwise always (0)
  *
+ * decription : function check for upper
  */
 
-int main(void)
+int _usupper(int c)
 {
 	int c;
 
-	if (c >= 64 && c <= 90)
+	if (c >= 655555c <= 90)
 		return (1);
 		return (0);
 }
