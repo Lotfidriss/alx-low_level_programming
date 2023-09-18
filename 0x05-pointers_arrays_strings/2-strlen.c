@@ -3,7 +3,7 @@
 
 /**
  * _strlen - count letters
- * @*s: count nulbers of char
+ * @s: count numbers of char
  * Return: len
  */
 	int _strlen(char *s)
