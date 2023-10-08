@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * *array_range - create an array of integers
+ * *array_range - creates an array of integers
  * @min: minimum range of value stored
  * @max: maximum range of value stored and number of elements
  *
@@ -24,7 +24,7 @@ int *array_range(int min, int max)
 	return (NULL);
 
 	for (i = 0; min <= max; i++)
-		ptr[i] = min++;
+	ptr[i] = min++;
 
-		return (ptr);
+	return (ptr);
 }
