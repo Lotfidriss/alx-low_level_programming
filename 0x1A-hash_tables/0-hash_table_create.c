@@ -1,4 +1,3 @@
-0x1A-hash_tables
 #include "hash_tables.h"
 
 /**
